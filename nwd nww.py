@@ -10,7 +10,7 @@ def nwd(a,b):
     return wieksza
 
 
-print(nwd( , ))
+print(nwd(173,54))
 
 
 
@@ -18,4 +18,4 @@ print(nwd( , ))
 def nww(a,b):
     return (a * b)/nwd(a,b)
 
-print(nww( , ))
+print(nww(173,54))
